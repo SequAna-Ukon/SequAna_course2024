@@ -23,7 +23,7 @@ As such, it is strongly recommended that you bring a laptop with you to complete
 
 # Objectives
 
-The main objective of this course is to empower participants with the theoretical and practical knowledge to sequence their genome of interest using ONT and analyze it, including a practical hand-out in the basics of command line, scripting, and the use of computational tools for genome assemblies and several genome downstream analyses. 
+The main objective of this course is to empower participants with the theoretical and practical knowledge to sequence their genome of interest using ONT and analyze it, including a practical hand-out in the basics of the command line, scripting, and the use of computational tools for genome assemblies and several genome downstream analyses. 
 
 The objective of this course is not for you to become proficient or masterful of the techniques. We will be covering (we have only 5 working days!), nor to perfectly create results for publication. The critical part is the journey, not the destination. Please feel free to take your time. Any proficiency gained in the techniques we cover will likely be extremely valuable to you as a research scientist.
 
@@ -44,24 +44,21 @@ We will provide resources for all topics we cover and you are encouraged to look
 resources if you wish to further your knowledge of the topic.
 
 # Structure of the practical
-The course will be divided up by days (1-5). We'll hold the 5th day spare and see how we're getting on. We can be flexible with how or if we use the 5th day. The 5th day can be used for the scRNA-seq practical as a bonus session.
-
-Each day we will work towards our end goal of recapitulating the results of our chosen studies. But remember, our goal is to learn along the way, not to get to the end. I would instead take our time on the journey that reaches the final figures.
+The course will be divided into 5 days. Each day we will work towards our end goal of recapitulating the results of the sequenced genome in the course. But remember, our goal is to learn along the way, not to get to the end. I would instead take our time on the journey that reaches the final results.
 
 One of the most essential skills in computation biology/informatics is the effective
 sourcing of reference material. I.e. good googling!
 
-As such throughout the 3/4 days, while you will be given a structure to follow,
-you will also be asked to work out how to do certain tasks on your own.
+As such throughout the first two days, while you will be given a structure to follow, you will also be asked to work out how to do certain tasks on your own.
 But don't worry, the SequAna bioinformatician will be there to help you when you get stuck. Much of what you're asked to do will be new to you and may feel challenging - that's totally normal.
 
-Some packages take a long time to install so it's best to do this setup in advance. Then, we will install all requirements during the first two days while we introduce you to the bash and R scripting basics. 
+Some packages take a long time to install so it's best to do this setup in advance. Then, we will install all requirements during the first two days while we introduce you to the bash and scripting basics. 
 
 Last but not least, Here are links to tutorial hand-outs for each practical session, Enjoy training.
 
 
-- DAY 1: [Installing programs bash scripting introduction.](https://github.com/SequAna-Ukon/VTK2023/wiki/DAY-1:-Installing-programs-bash-scripting-introduction)
-- DAY 2: [R scripting.](https://github.com/SequAna-Ukon/VTK2023/wiki/Day-2:-R-scripting)
-- DAY 3: [Böstrom et al 2017](https://github.com/SequAna-Ukon/VTK2023/wiki/DAY-3:-B%C3%B6strom-et-al-2017)
-- Day 4: [Containers and Workflow management systems.](https://github.com/SequAna-Ukon/VTK2023/wiki/Day-4:-Containers-and-Workflow-management-systems)
-- Day 5: [MacParland et al 2018(bonus)](https://github.com/SequAna-Ukon/VTK2023/wiki/Day-5:-MacParland-et-al-2018)
+- DAY I: [Thursday 21.03.2024]()
+- DAY II: [Friday 22.03.2024]()
+- DAY III: [Monday 25.03.2024]()
+- Day IV: [Tuesday 26.03.2024]()
+- Day V: [Wednesday 27.03.2024]()
