@@ -4,7 +4,7 @@
 This markdown document will cover all aspects of the practical related to SequAna's intensive genomic course.
 
 # Introduction
-In this practical, we will process an Oxford nanopore sequencing (ONT) dataset of Aiptasia  that was generated earlier in SequAna's Lab.
+In this practical, we will process an Oxford nanopore sequencing (ONT) dataset of Aiptasia XXXX that was generated earlier in SequAna's Lab.
 
 ## The papers
 Selected publications "TODO"
@@ -19,15 +19,15 @@ Abdoallah aka "Abdo", the current SequAna bioinformatician will be running the m
 You'll need access to a computer so you can finish this practical. While M739 does contain computers that use your laptops. Also, you could use it to log in to the
 SequAna computational server. This is a very inconvenient way to work as your home directory is deleted after every session and it is not possible to install applications that use Graphical User Interfaces (GUI). However, we also already set up an online cloud environment (Gitpod) for this practical but it has limited computing and storage resources. This online cloud environment will mainly used for the scripting basic demonstration and the mini-practice. 
 
-As such, it is strongly recommended that you bring a laptop with you to complete the practical. 
+As such, it is strongly recommended that you bring a laptop with you to complete the practical. However, we will give you access to SequAna's computational server: sequana. connections details can be found HERE.
 
 # Objectives
 
 The main objective of this practical is to introduce you to the tools used by computational biologists/bioinformaticians to generate meaningful results from ONT genome sequencing data.
 
-The objective of this course is not for you to become proficient or masterful of the techniques. We will be covering (we have only 5 working days!), nor to perfectly recreate the figures from the manuscript. The critical part is the journey, not the destination. Please feel free to take your time. Any proficiency gained in the techniques we cover will likely be extremely valuable to you as a research scientist.
+The objective of this course is not for you to become proficient or masterful of the techniques. We will be covering (we have only 5 working days!), nor to perfectly create results for publication. The critical part is the journey, not the destination. Please feel free to take your time. Any proficiency gained in the techniques we cover will likely be extremely valuable to you as a research scientist.
 
-To achieve this objective we will work with the sequencing data archived as part of the study mentioned above to recapitulate several of their key findings.
+To achieve this objective we will work with the sequencing data generated from Aiptasia during this course to recapitulate several of their key findings.
 
 In doing so we will cover many broad informatic/bioinformatic techniques not limited to:
 
