@@ -23,31 +23,28 @@ As such, it is strongly recommended that you bring a laptop with you to complete
 
 # Objectives
 
-The main objective of this practical is to introduce you to the tools used by computational biologists/bioinformaticians to generate meaningful results from ONT genome sequencing data.
+The main objective of this course is to empower participants with the theoretical and practical knowledge to sequence their genome of interest using ONT and analyze it, including a practical hand-out in the basics of command line, scripting, and the use of computational tools for genome assemblies and several genome downstream analyses. 
 
 The objective of this course is not for you to become proficient or masterful of the techniques. We will be covering (we have only 5 working days!), nor to perfectly create results for publication. The critical part is the journey, not the destination. Please feel free to take your time. Any proficiency gained in the techniques we cover will likely be extremely valuable to you as a research scientist.
 
-To achieve this objective we will work with the sequencing data generated from Aiptasia during this course to recapitulate several of their key findings.
+We will work with the sequencing data generated from Aiptasia during this course to recapitulate several of their key findings to achieve this objective.
 
 In doing so we will cover many broad informatic/bioinformatic techniques not limited to:
 
-- Working on the command line interface (CLI)
-- Using Conda environments to install programs and packages
-- Working with Docker images in Singularity
+- Working on the command line interface (CLI), including working with package managers, docker images, and workflow management.
+- Practicing on ONT library preparation strategies.
 - Working with core bioinformatic tools to perform:
-    - access to archived sequencing data
-    - sequencing pre-processing and quality control
-    - sequence analysis
-- R scripting to manipulate, analyze, and visualize data
-- Workflow management with Nextflow
+    - Genome assembly and assist its quality with different approaches.
+    - Identify and mask DNA repeats.
+    - Gene prediction and functional annotation.
+    - Orthology Prediction and Phylogenetic Analysis.
 
-I will provide resources for all topics we cover and you are encouraged to look at these
+
+We will provide resources for all topics we cover and you are encouraged to look at these
 resources if you wish to further your knowledge of the topic.
 
-If you find yourself ahead of the rest of the group, you can just work on whatever you like or take the time to look over the topics we've covered so far in more detail.
-
 # Structure of the practical
-The practical will be divided up by days (1-5). We'll hold the 5th day spare and see how we're getting on. We can be flexible with how or if we use the 5th day. The 5th day can be used for the scRNA-seq practical as a bonus session.
+The course will be divided up by days (1-5). We'll hold the 5th day spare and see how we're getting on. We can be flexible with how or if we use the 5th day. The 5th day can be used for the scRNA-seq practical as a bonus session.
 
 Each day we will work towards our end goal of recapitulating the results of our chosen studies. But remember, our goal is to learn along the way, not to get to the end. I would instead take our time on the journey that reaches the final figures.
 
