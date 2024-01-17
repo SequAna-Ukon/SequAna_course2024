@@ -7,9 +7,8 @@ This markdown document will cover all aspects of the practical related to SequAn
 In this practical, we will process an Oxford nanopore sequencing (ONT) dataset of Aiptasia XXXX that was generated earlier in SequAna's Lab.
 
 ## The papers
-Selected publications "TODO"
-It would be a good idea to familiarize yourself with the papers before starting the practical work.
-
+Selected publications It would be a good idea to familiarize yourself with the papers before starting the practical work.
+- [Willem et al. (2022)](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15690)
 ## Location
 The practical will take place in room M739 from 09.00-~18:00 on the 21st-27th of March. 
 
