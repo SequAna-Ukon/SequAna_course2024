@@ -66,4 +66,3 @@ Last but not least, Here are links to tutorial hand-outs for each practical sess
 - Day IV: [Tuesday 26.03.2024](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Day-IV:-Tuesday-26.03.2024)
 - Day V: [Wednesday 27.03.2024](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Day-V:-Wednesday-27.03.2024)
 
-
