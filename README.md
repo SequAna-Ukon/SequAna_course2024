@@ -20,9 +20,9 @@ Abdoallah aka "Abdo", the current SequAna bioinformatician will be running the m
 
 ## Computing setup
 You'll need access to a computer so you can finish this practical. While M739 does contain computers that use your laptops. Also, you could use it to log in to the
-SequAna computational server. This is a very inconvenient way to work as your home directory is deleted after every session and it is not possible to install applications that use Graphical User Interfaces (GUI). However, we also already set up an online cloud environment (Gitpod) for this practical but it has limited computing and storage resources. This online cloud environment will mainly used for the scripting basic demonstration and the mini-practice. 
+SequAna computational server. This is a very inconvenient way to work as your home directory is deleted after every session and it is not possible to install applications that use Graphical User Interfaces (GUI). However, we also already set up an online cloud environment (Gitpod) for this practical but it has limited computing and storage resources. This online cloud environment will mainly used for the scripting basic demonstration and the mini-practice. However, it's necessary to have your GitHub account to work with Gitpo, you should have your GitHub account now as you can't access this document without the invitation that I sent earlier. 
 
-As such, it is strongly recommended that you bring a laptop with you to complete the practical. However, we will give you access to SequAna's computational server: sequana. connections details can be found [HERE](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Connecting-to-SequAna's-computational-server:-sequana).
+As such, it is strongly recommended that you bring a laptop with you to complete the practical. However, we will give you access to SequAna's computational server: sequence. connections details can be found [HERE](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Connecting-to-SequAna's-computational-server:-sequana).
 
 # Objectives
 
@@ -53,7 +53,7 @@ One of the most essential skills in computation biology/informatics is the effec
 sourcing of reference material. I.e. good googling!
 
 As such throughout the first two days, while you will be given a structure to follow, you will also be asked to work out how to do certain tasks on your own.
-But don't worry, the SequAna bioinformatician will be there to help you when you get stuck. Much of what you're asked to do will be new to you and may feel challenging - that's totally normal.
+But don't worry, the SequAna bioinformatician will be there to help you when you get stuck. Much of what you're asked to do will be new to you and may feel challenging - that's normal.
 
 Some packages take a long time to install so it's best to do this setup in advance. Then, we will install all requirements during the first two days while we introduce you to the bash and scripting basics. 
 
