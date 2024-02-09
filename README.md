@@ -57,12 +57,6 @@ But don't worry, the SequAna bioinformatician will be there to help you when you
 
 Some packages take a long time to install so it's best to do this setup in advance. Then, we will install all requirements during the first two days while we introduce you to the bash and scripting basics. 
 
-Last but not least, Here are links to tutorial hand-outs for each practical session, Enjoy training.
+Last but not least, The program of the course is on the [WIKI](https://github.com/SequAna-Ukon/SequAna_course2024/wiki) page, with links to material and Zoom link for the external speakers, Enjoy the training.
 
-
-- DAY I: [Thursday 21.03.2024](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Day-I:-Thursday-21.03.2024)
-- DAY II: [Friday 22.03.2024](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Day-II:-Friday-22.03.2024)
-- DAY III: [Monday 25.03.2024](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Day-III:-Monday-25.03.2024)
-- Day IV: [Tuesday 26.03.2024](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Day-IV:-Tuesday-26.03.2024)
-- Day V: [Wednesday 27.03.2024](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Day-V:-Wednesday-27.03.2024)
 
