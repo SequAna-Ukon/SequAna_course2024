@@ -4,7 +4,7 @@
 This markdown document will cover all aspects of the practical related to SequAna's intensive genomic course.
 
 # Introduction
-In this practical, we will process an Oxford nanopore sequencing (ONT) dataset of Aiptasia XXXX that was generated earlier in SequAna's Lab.
+In this practical, we will process an Oxford nanopore sequencing (ONT) dataset of a symbionts-free strain of Aiptasia sp. F003  that was generated earlier in SequAna's Lab.
 
 ## The papers
 Selected publications It would be a good idea to familiarize yourself with the papers before starting the practical work.
