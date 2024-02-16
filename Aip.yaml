@@ -1,0 +1,17 @@
+assembly: Aip_F003_1
+  level: contigs
+settings:
+  foo: 0
+similarity:
+  diamond_blastx:
+    foo: 0
+taxon:
+  class: Anthozoa
+  family: Aiptasiidae
+  genus: Aiptasia
+  kingdom: Metazoa
+  name: species_name
+  order: Actiniaria
+  phylum: Cnidaria
+  superkingdom: Eukaryota
+  taxid: 12922
