@@ -1,5 +1,5 @@
-assembly: Aip_F003_1
-  level: contigs
+assembly:
+  level: contig
 settings:
   foo: 0
 similarity:
