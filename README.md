@@ -4,7 +4,9 @@
 This markdown document will cover all aspects of the practical related to SequAna's intensive genomic course.
 
 # Introduction
-In this practical, we will process an Oxford nanopore sequencing (ONT) dataset of a symbionts-free strain of Aiptasia sp. F003  that was generated earlier in SequAna's Lab.
+In this practical, we will process an Oxford nanopore sequencing (ONT) dataset of a symbionts-free strain of Aiptasia sp. F003  that was generated earlier in SequAna's Lab. 
+Aiptasia is a globally distributed genus of sea anemones in the Class Anthozoa. Similar to its relatives, stony corals, Aiptasia forms symbiotic relationships with microalgae of the family Symbiodiniaceae. As such, it is a popular model organism for studying the molecular and cellular basis of the cnidarian-algal symbiosis and several recent investigations into animal-microbiome studies.
+It has several features that make it an ideal model organism for studies on marine symbioses: they are easily cultured in laboratories where they can reproduce both sexually and asexually. Asexual cloning, in particular, is a valuable ability as it allows large clonal populations to be obtained with relative ease. Additionally, they can also be cultured and maintained indefinitely in a symbiont-free state and can be re-infected by a variety of Symbiodiniaceae strains.
 
 ## The papers
 Selected publications It would be a good idea to familiarize yourself with the papers before starting the practical work.
@@ -22,7 +24,7 @@ Abdoallah aka "Abdo", the current SequAna bioinformatician will be running the m
 You'll need access to a computer so you can finish this practical. While M739 does contain computers that use your laptops. Also, you could use it to log in to the
 SequAna computational server. This is a very inconvenient way to work as your home directory is deleted after every session and it is not possible to install applications that use Graphical User Interfaces (GUI). However, we also already set up an online cloud environment (Gitpod) for this practical but it has limited computing and storage resources. This online cloud environment will mainly used for the scripting basic demonstration and the mini-practice. However, it's necessary to have your GitHub account to work with Gitpo, if you don't have one please do it now.
 
-As such, it is strongly recommended that you bring a laptop with you to complete the practical. However, we will give you access to SequAna's computational server: sequence. connections details can be found [HERE](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Connecting-to-SequAna's-computational-server:-sequana).
+As such, it is strongly recommended that you bring a laptop to complete the practical. However, we will give you access to SequAna's computational server: sequence. connections details can be found [HERE](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Connecting-to-SequAna's-computational-server:-sequana).
 
 # Objectives
 
