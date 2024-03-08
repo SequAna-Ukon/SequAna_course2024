@@ -8,4 +8,4 @@ tasks:
           ../mambaforge/bin/mamba init bash
     - name: busco
       command: |
-          pip install busco
+          pip3 install busco
