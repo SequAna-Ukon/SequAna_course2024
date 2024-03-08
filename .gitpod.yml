@@ -6,3 +6,6 @@ tasks:
           bash Mambaforge-$(uname)-$(uname -m).sh -b -p /workspace/mambaforge && rm Mambaforge-$(uname)-$(uname -m).sh
           source ${HOME}/.bashrc
           ../mambaforge/bin/mamba init bash
+    - name: busco
+      command: |
+          pip install busco
