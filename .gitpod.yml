@@ -6,5 +6,6 @@ tasks:
           bash Mambaforge-$(uname)-$(uname -m).sh -b -p /workspace/mambaforge && rm Mambaforge-$(uname)-$(uname -m).sh
           ../mambaforge/bin/mamba init bash
           source /home/gitpod/.bashrc
-          mamba create -n busco -y bioconda::busco
+          mamba create -n ONT24 -y bioconda::busco
+          mamba activate ONT24
           
