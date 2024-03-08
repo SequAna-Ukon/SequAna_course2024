@@ -1,4 +1,4 @@
-# Intensive practical genome sequencing course, from basic scripting to advanced downstream analyses
+# Intensive practical genome sequencing course, from basic scripting to advanced downstream analyses (BIO-16840)
 ## 21st - 27th March 2024
 
 This markdown document will cover all aspects of the practical related to SequAna's intensive genomic course.
