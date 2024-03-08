@@ -6,7 +6,5 @@ tasks:
           bash Mambaforge-$(uname)-$(uname -m).sh -b -p /workspace/mambaforge && rm Mambaforge-$(uname)-$(uname -m).sh
           ../mambaforge/bin/mamba init bash
           source /home/gitpod/.bashrc
-          
-    - name: install busco 
-      command: |
           mamba install -y bioconda::busco
+          
