@@ -1,0 +1,10 @@
+image: greenmarch/SequAna_course2024
+
+tasks:
+
+    - name: install mamba 
+      command: |
+          wget "https://github.com/conda-forge/miniforge/releases/latest/download/Mambaforge-$(uname)-$(uname -m).sh"
+          bash Mambaforge-$(uname)-$(uname -m).sh -b -p /workspace/mambaforge && rm Mambaforge-$(uname)-$(uname -m).sh
+          source ${HOME}/.bashrc
+          ../mambaforge/bin/mamba init bash
