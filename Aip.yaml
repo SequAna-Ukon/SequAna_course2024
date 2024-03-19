@@ -8,10 +8,11 @@ similarity:
 taxon:
   class: Anthozoa
   family: Aiptasiidae
-  genus: Aiptasia
+  genus: Exaiptasia
+  species: Exaiptasia diaphna
   kingdom: Metazoa
   name: species_name
   order: Actiniaria
   phylum: Cnidaria
   superkingdom: Eukaryota
-  taxid: 12922
+  taxid: 2652724
