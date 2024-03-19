@@ -10,11 +10,11 @@ It has several features that make it an ideal model organism for studies on mari
 
 ## The papers
 Selected publications It would be a good idea to familiarize yourself with the papers before starting the practical work.
-- [Wang et al. (2021)](https://www.nature.com/articles/s41587-021-01108-x)
-- [Boughattas et al. (2021)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8447)
+- [Wang et al. (2021)](https://www.nature.com/articles/s41587-021-01108-x).
+- [Boughattas et al. (2021)](https://onlinelibrary.wiley.com/doi/10.1002/ece3.8447).
 - [Willem et al. (2022)](https://onlinelibrary.wiley.com/doi/10.1111/tpj.15690).
-- [Safar et al. (2023)](https://bmcbiotechnol.biomedcentral.com/articles/10.1186/s12896-023-00797-3)
-- [Fleck et al. (2024)](https://www.nature.com/articles/s42003-023-05748-4)
+- [Safar et al. (2023)](https://bmcbiotechnol.biomedcentral.com/articles/10.1186/s12896-023-00797-3).
+- [Fleck et al. (2024)](https://www.nature.com/articles/s42003-023-05748-4).
 ## Location
 The practical will take place in room M739 from 09.00-~18:00 on the 21st-27th of March. 
 
