@@ -22,7 +22,7 @@ Abdoallah aka "Abdo", the current SequAna bioinformatician will be running the m
 
 ## Computing setup
 You'll need access to a computer so you can finish this practical. While M739 does contain computers that use your laptops. Also, you could use it to log in to the
-SequAna computational server. This is a very inconvenient way to work as your home directory is deleted after every session and it is not possible to install applications that use Graphical User Interfaces (GUI). However, we also already set up an online cloud environment (Gitpod) for this practical but it has limited computing and storage resources. This online cloud environment will mainly used for the scripting basic demonstration and the mini-practice. However, it's necessary to have your GitHub account to work with Gitpo, if you don't have one please do it now.
+SequAna computational server. This is a very inconvenient way to work as your home directory is deleted after every session and it is not possible to install applications that use Graphical User Interfaces (GUI). However, we also already set up an online cloud environment (Gitpod) for this practical but it has limited computing and storage resources. This online cloud environment will mainly used for the scripting basic demonstration and the mini-practice. However, it's necessary to have your GitHub account to work with Gitpod, if you don't have one please do it now.
 
 As such, it is strongly recommended that you bring a laptop to complete the practical. However, we will give you access to SequAna's computational server: SequAna_Students. connections details can be found [HERE](https://github.com/SequAna-Ukon/SequAna_course2024/wiki/Connecting-to-SequAna_Students'-computational-server:-sequana).
 
